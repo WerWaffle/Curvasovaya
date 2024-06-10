@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\MSI\Visual Studio\programms\computerGraphics\skeletalAnimation\skeletalAnimation\main.cpp(109,42): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\MSI\Visual Studio\programms\computerGraphics\skeletalAnimation\skeletalAnimation\main.cpp(142,24): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  skeletalAnimation.vcxproj -> C:\Users\MSI\Visual Studio\programms\computerGraphics\skeletalAnimation\x64\Debug\skeletalAnimation.exe
+  C:\Users\MSI\Visual Studio\IDE\VC\Auxiliary\VS\bin\x64\freeglut.dll
+  Скопировано файлов:         1.
